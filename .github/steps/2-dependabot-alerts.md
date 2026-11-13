@@ -7,4 +7,9 @@
 3. **Security** タブの **Dependabot** を開き、`Prototype Pollution in minimist` を選びます。
 4. **Create Dependabot security update** を選びます。PR ができたら **Review security update** を開き、**Files changed** で差分を確認してから **Conversation** でマージします。
 
+### 画面での確認
+
+- 設定は上部の **Settings** → 左側の **Advanced Security** です。アラートの一覧は上部の **Security** → 左側の **Dependabot** で開きます。
+- アラートの詳細で更新 PR を作成し、ボタンが **Review security update** に変わったら開きます。PR 上部の **Files changed** で更新内容を確認します。
+
 [原文](https://github.com/skills/secure-repository-supply-chain/blob/main/.github/steps/2-dependabot-alerts.md)

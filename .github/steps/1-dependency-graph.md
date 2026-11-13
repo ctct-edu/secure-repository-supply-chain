@@ -17,4 +17,9 @@
 }
 ```
 
+### 画面での確認
+
+- 自分のリポジトリ上部の **Settings** を開きます。左側のセキュリティ設定で **Advanced Security** を選び、**Dependency graph** の状態を確認します。
+- コミット後は上部の **Insights** を開き、左側の **Dependency graph** を選びます。**Dependencies** に対象パッケージが表示されるまで再読み込みします。
+
 [原文](https://github.com/skills/secure-repository-supply-chain/blob/main/.github/steps/1-dependency-graph.md)

@@ -21,4 +21,9 @@ updates:
       interval: "weekly"
 ```
 
+### 画面での確認
+
+- **Settings** → **Advanced Security** で **Dependabot version updates** の右側の **Configure** を選びます。
+- コミット後、**Code** → `.github` → `dependabot.yml` を開き、`github-actions` と `nuget` の両方が `updates` の下に表示されることを確認します。
+
 [原文](https://github.com/skills/secure-repository-supply-chain/blob/main/.github/steps/4-dependabot-versions.md)
